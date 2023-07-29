@@ -1,0 +1,4305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Food\n"
+"POT-Creation-Date: 2022-03-05 11:04+0700\n"
+"PO-Revision-Date: 2022-03-05 11:04+0700\n"
+"Last-Translator: \n"
+"Language-Team: Ex Themes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woo-exfood/woo-food.php:27
+msgid ""
+"WooCommerce is Required to WooCommerce Food plugin work, please install or "
+"activate WooCommerce plugin"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:14
+#: woo-exfood/admin/class-food-taxonomy.php:15
+#: woo-exfood/admin/class-food-taxonomy.php:16
+msgid "Food Menu"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:17
+msgid "All Menu"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:18
+msgid "Parent Menu"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:19
+msgid "Parent Menu:"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:20
+#: woo-exfood/inc/food-by-date.php:14
+msgid "Edit Menu"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:21
+msgid "Update Menu"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:22
+#: woo-exfood/inc/food-by-date.php:12 woo-exfood/inc/food-by-date.php:13
+msgid "Add New Menu"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:23
+msgid "Food Menus"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:37
+#: woo-exfood/admin/class-food-taxonomy.php:38
+#: woo-exfood/admin/class-food-taxonomy.php:39
+#: woo-exfood/admin/functions.php:349 woo-exfood/admin/functions.php:660
+#: woo-exfood/admin/functions.php:677 woo-exfood/inc/functions.php:1904
+#: woo-exfood/inc/woo-hook.php:803 woo-exfood/inc/woo-hook.php:862
+#: woo-exfood/inc/woo-hook.php:1567
+msgid "Location"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:40
+msgid "All Location"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:41
+msgid "Parent Location"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:42
+msgid "Parent Location:"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:43
+msgid "Edit Location"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:44
+msgid "Update Location"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:45
+msgid "Add New Location"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:46
+msgid "Food Locations"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:71
+#: woo-exfood/admin/inc/metadata-functions.php:293
+#: woo-exfood/inc/order-whatsapp.php:66
+msgid "Category Metabox"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:77
+msgid "Address"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:79
+msgid "Add full address of this location to calculate radius shipping"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:83
+#: woo-exfood/admin/inc/metadata-functions.php:1642
+msgid "Distance restrict (km)"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:85
+msgid ""
+"Enter number of kilometer to restrict delivery for this location, leave "
+"blank to use value from setting page"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:89
+#: woo-exfood/admin/inc/metadata-functions.php:875
+#: woo-exfood/admin/inc/metadata-functions.php:1382
+#: woo-exfood/admin/inc/metadata-functions.php:1509
+msgid "Minimum Order Amount required"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:91
+msgid "Set minimum amount required for this location"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:95
+#: woo-exfood/admin/inc/metadata-functions.php:1614
+#: woo-exfood/admin/inc/open-close-field.php:137
+#: woo-exfood/inc/order-whatsapp.php:148 woo-exfood/inc/shipping.php:614
+msgid "Shipping fee"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:96
+#: woo-exfood/admin/inc/metadata-functions.php:1615
+msgid "Set Shipping fee for delivery, enter number"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:102
+#: woo-exfood/admin/inc/metadata-functions.php:1621
+msgid "Minimum order amount to free shipping"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:103
+#: woo-exfood/admin/shortcode-builder.php:240
+#: woo-exfood/admin/shortcode-builder.php:315
+#: woo-exfood/admin/inc/metadata-functions.php:1622
+#: woo-exfood/inc/minmax-quantity.php:57 woo-exfood/inc/minmax-quantity.php:73
+#: woo-exfood/inc/woo-hook.php:87
+msgid "Enter number"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:109
+msgid "Email recipients"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:111
+msgid "Set email to get notification when user order food from this location"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:115
+msgid "Hide menu/category filter"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:117
+msgid "Select menu/category filter to hide from this location"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:132
+#: woo-exfood/admin/inc/metadata-functions.php:948
+#: woo-exfood/admin/inc/metadata-functions.php:954
+msgid "Opening and Closing time"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:133
+msgid "Leave blank to use values from settings page"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:139
+msgid "Closed?"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:140
+msgid "Select yes to set this location is closed"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:146
+#: woo-exfood/admin/shortcode-builder.php:355
+#: woo-exfood/admin/shortcode-builder.php:388
+#: woo-exfood/admin/shortcode-builder.php:401
+#: woo-exfood/admin/shortcode-builder.php:441
+#: woo-exfood/admin/shortcode-builder.php:453
+#: woo-exfood/admin/shortcode-builder.php:469
+#: woo-exfood/admin/shortcode-builder.php:489
+#: woo-exfood/admin/shortcode-builder.php:502
+#: woo-exfood/admin/shortcode-builder.php:517
+#: woo-exfood/admin/shortcode-builder.php:529
+#: woo-exfood/admin/shortcode-builder.php:542
+#: woo-exfood/admin/inc/metadata-functions.php:179
+#: woo-exfood/admin/inc/metadata-functions.php:501
+#: woo-exfood/admin/inc/metadata-functions.php:526
+#: woo-exfood/admin/inc/metadata-functions.php:539
+#: woo-exfood/admin/inc/metadata-functions.php:551
+#: woo-exfood/admin/inc/metadata-functions.php:579
+#: woo-exfood/admin/inc/metadata-functions.php:593
+#: woo-exfood/admin/inc/metadata-functions.php:605
+#: woo-exfood/admin/inc/metadata-functions.php:618
+#: woo-exfood/admin/inc/metadata-functions.php:638
+#: woo-exfood/admin/inc/metadata-functions.php:856
+#: woo-exfood/admin/inc/metadata-functions.php:974
+#: woo-exfood/admin/inc/metadata-functions.php:1368
+#: woo-exfood/admin/inc/metadata-functions.php:1495
+#: woo-exfood/admin/inc/metadata-functions.php:1575
+#: woo-exfood/admin/inc/metadata-functions.php:1586
+#: woo-exfood/admin/inc/metadata-functions.php:1705
+#: woo-exfood/admin/inc/metadata-functions.php:1890
+#: woo-exfood/inc/order-whatsapp.php:44 woo-exfood/inc/tip.php:27
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:146
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:175
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:286
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:311
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:323
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:337
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:348
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:360
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:374
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:368
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:400
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:411
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:424
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:435
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:447
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:461
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:472
+#: woo-exfood/inc/shortcodes/woo-food-list.php:375
+#: woo-exfood/inc/shortcodes/woo-food-list.php:407
+#: woo-exfood/inc/shortcodes/woo-food-list.php:430
+#: woo-exfood/inc/shortcodes/woo-food-list.php:443
+#: woo-exfood/inc/shortcodes/woo-food-list.php:454
+#: woo-exfood/inc/shortcodes/woo-food-list.php:466
+#: woo-exfood/inc/shortcodes/woo-food-list.php:478
+#: woo-exfood/inc/shortcodes/woo-food-list.php:492
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:273
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:400
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:413
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:436
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:448
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:462
+#: woo-exfood/inc/shortcodes/woo-food-orderbt.php:147
+#: woo-exfood/inc/shortcodes/woo-food-orderbt.php:159
+#: woo-exfood/inc/shortcodes/woo-food-table.php:392
+#: woo-exfood/inc/shortcodes/woo-food-table.php:416
+#: woo-exfood/inc/shortcodes/woo-food-table.php:448
+#: woo-exfood/inc/shortcodes/woo-food-table.php:459
+#: woo-exfood/inc/shortcodes/woo-food-table.php:472
+#: woo-exfood/inc/shortcodes/woo-food-table.php:483
+#: woo-exfood/inc/shortcodes/woo-food-table.php:495
+#: woo-exfood/inc/shortcodes/woo-food-table.php:507
+#: woo-exfood/inc/shortcodes/woo-food-table.php:521
+msgid "No"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:147
+#: woo-exfood/admin/shortcode-builder.php:356
+#: woo-exfood/admin/shortcode-builder.php:389
+#: woo-exfood/admin/shortcode-builder.php:402
+#: woo-exfood/admin/shortcode-builder.php:442
+#: woo-exfood/admin/shortcode-builder.php:454
+#: woo-exfood/admin/shortcode-builder.php:470
+#: woo-exfood/admin/shortcode-builder.php:490
+#: woo-exfood/admin/shortcode-builder.php:503
+#: woo-exfood/admin/shortcode-builder.php:516
+#: woo-exfood/admin/shortcode-builder.php:530
+#: woo-exfood/admin/shortcode-builder.php:543
+#: woo-exfood/admin/shortcode-builder.php:556
+#: woo-exfood/admin/inc/metadata-functions.php:180
+#: woo-exfood/admin/inc/metadata-functions.php:502
+#: woo-exfood/admin/inc/metadata-functions.php:527
+#: woo-exfood/admin/inc/metadata-functions.php:540
+#: woo-exfood/admin/inc/metadata-functions.php:552
+#: woo-exfood/admin/inc/metadata-functions.php:580
+#: woo-exfood/admin/inc/metadata-functions.php:594
+#: woo-exfood/admin/inc/metadata-functions.php:606
+#: woo-exfood/admin/inc/metadata-functions.php:619
+#: woo-exfood/admin/inc/metadata-functions.php:639
+#: woo-exfood/admin/inc/metadata-functions.php:857
+#: woo-exfood/admin/inc/metadata-functions.php:975
+#: woo-exfood/admin/inc/metadata-functions.php:1369
+#: woo-exfood/admin/inc/metadata-functions.php:1496
+#: woo-exfood/admin/inc/metadata-functions.php:1576
+#: woo-exfood/admin/inc/metadata-functions.php:1587
+#: woo-exfood/admin/inc/metadata-functions.php:1706
+#: woo-exfood/admin/inc/metadata-functions.php:1891
+#: woo-exfood/inc/order-whatsapp.php:45 woo-exfood/inc/tip.php:28
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:147
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:176
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:287
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:312
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:324
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:336
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:349
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:361
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:373
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:369
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:401
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:412
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:423
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:436
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:448
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:460
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:473
+#: woo-exfood/inc/shortcodes/woo-food-list.php:376
+#: woo-exfood/inc/shortcodes/woo-food-list.php:408
+#: woo-exfood/inc/shortcodes/woo-food-list.php:431
+#: woo-exfood/inc/shortcodes/woo-food-list.php:442
+#: woo-exfood/inc/shortcodes/woo-food-list.php:455
+#: woo-exfood/inc/shortcodes/woo-food-list.php:467
+#: woo-exfood/inc/shortcodes/woo-food-list.php:479
+#: woo-exfood/inc/shortcodes/woo-food-list.php:491
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:274
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:401
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:412
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:437
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:449
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:461
+#: woo-exfood/inc/shortcodes/woo-food-orderbt.php:146
+#: woo-exfood/inc/shortcodes/woo-food-orderbt.php:158
+#: woo-exfood/inc/shortcodes/woo-food-table.php:393
+#: woo-exfood/inc/shortcodes/woo-food-table.php:417
+#: woo-exfood/inc/shortcodes/woo-food-table.php:449
+#: woo-exfood/inc/shortcodes/woo-food-table.php:460
+#: woo-exfood/inc/shortcodes/woo-food-table.php:471
+#: woo-exfood/inc/shortcodes/woo-food-table.php:484
+#: woo-exfood/inc/shortcodes/woo-food-table.php:496
+#: woo-exfood/inc/shortcodes/woo-food-table.php:508
+#: woo-exfood/inc/shortcodes/woo-food-table.php:520
+msgid "Yes"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:152
+#: woo-exfood/admin/inc/metadata-functions.php:805
+#: woo-exfood/admin/inc/metadata-functions.php:989
+#: woo-exfood/admin/inc/metadata-functions.php:1232
+#: woo-exfood/admin/inc/metadata-functions.php:1352
+#: woo-exfood/admin/inc/metadata-functions.php:1459
+#: woo-exfood/inc/food-by-date.php:215
+msgid "Monday"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:165
+#: woo-exfood/admin/inc/metadata-functions.php:806
+#: woo-exfood/admin/inc/metadata-functions.php:1002
+#: woo-exfood/admin/inc/metadata-functions.php:1238
+#: woo-exfood/admin/inc/metadata-functions.php:1353
+#: woo-exfood/admin/inc/metadata-functions.php:1460
+#: woo-exfood/inc/food-by-date.php:221
+msgid "Tuesday"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:178
+#: woo-exfood/admin/inc/metadata-functions.php:807
+#: woo-exfood/admin/inc/metadata-functions.php:1015
+#: woo-exfood/admin/inc/metadata-functions.php:1244
+#: woo-exfood/admin/inc/metadata-functions.php:1354
+#: woo-exfood/admin/inc/metadata-functions.php:1461
+#: woo-exfood/inc/food-by-date.php:227
+msgid "Wednesday"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:191
+#: woo-exfood/admin/inc/metadata-functions.php:808
+#: woo-exfood/admin/inc/metadata-functions.php:1028
+#: woo-exfood/admin/inc/metadata-functions.php:1250
+#: woo-exfood/admin/inc/metadata-functions.php:1355
+#: woo-exfood/admin/inc/metadata-functions.php:1462
+#: woo-exfood/inc/food-by-date.php:233
+msgid "Thursday"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:204
+#: woo-exfood/admin/inc/metadata-functions.php:809
+#: woo-exfood/admin/inc/metadata-functions.php:1041
+#: woo-exfood/admin/inc/metadata-functions.php:1256
+#: woo-exfood/admin/inc/metadata-functions.php:1356
+#: woo-exfood/admin/inc/metadata-functions.php:1463
+#: woo-exfood/inc/food-by-date.php:239
+msgid "Friday"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:218
+#: woo-exfood/admin/inc/metadata-functions.php:810
+#: woo-exfood/admin/inc/metadata-functions.php:1055
+#: woo-exfood/admin/inc/metadata-functions.php:1262
+#: woo-exfood/admin/inc/metadata-functions.php:1357
+#: woo-exfood/admin/inc/metadata-functions.php:1464
+#: woo-exfood/inc/food-by-date.php:245
+msgid "Saturday"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:232
+#: woo-exfood/admin/inc/metadata-functions.php:811
+#: woo-exfood/admin/inc/metadata-functions.php:1069
+#: woo-exfood/admin/inc/metadata-functions.php:1268
+#: woo-exfood/admin/inc/metadata-functions.php:1358
+#: woo-exfood/admin/inc/metadata-functions.php:1465
+#: woo-exfood/inc/food-by-date.php:251
+msgid "Sunday"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:249
+#: woo-exfood/admin/inc/metadata-functions.php:1691
+msgid "Shipping fee by km"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:250
+msgid "Leave blank to use value from setting page"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:258
+#: woo-exfood/admin/inc/metadata-functions.php:1713
+msgid "Set shipping fee by km, leave blank to use default shipping fee above"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:261
+#: woo-exfood/admin/inc/metadata-functions.php:1715
+msgid "Shipping fee by km {#}"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:262
+#: woo-exfood/admin/inc/metadata-functions.php:1090
+#: woo-exfood/admin/inc/metadata-functions.php:1148
+#: woo-exfood/admin/inc/metadata-functions.php:1716
+#: woo-exfood/admin/inc/metadata-functions.php:1775
+#: woo-exfood/inc/food-by-date.php:100
+msgid "Add new"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:263
+#: woo-exfood/admin/inc/metadata-functions.php:1091
+#: woo-exfood/admin/inc/metadata-functions.php:1149
+#: woo-exfood/admin/inc/metadata-functions.php:1717
+#: woo-exfood/admin/inc/metadata-functions.php:1776
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:236
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Types.php:408
+#: woo-exfood/admin/inc/cmb2/includes/types/CMB2_Type_File_Base.php:84
+#: woo-exfood/inc/food-by-date.php:101 woo-exfood/inc/tip.php:95
+msgid "Remove"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:271
+#: woo-exfood/admin/inc/metadata-functions.php:1725
+msgid "Max number of km"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:278
+#: woo-exfood/admin/inc/metadata-functions.php:1731
+#: woo-exfood/admin/inc/metadata-functions.php:1790
+msgid "Fee"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:285
+#: woo-exfood/admin/inc/metadata-functions.php:1737
+#: woo-exfood/admin/inc/metadata-functions.php:1796
+msgid "Free if total amount reach"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:292
+#: woo-exfood/admin/inc/metadata-functions.php:1743
+#: woo-exfood/admin/inc/metadata-functions.php:1802
+msgid "Minimum amount required"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:301
+#: woo-exfood/admin/inc/metadata-functions.php:1605
+msgid "Postcodes"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:303
+msgid ""
+"Enter list of your Postcodes here, separated by a comma, leave blank to use "
+"default postcodes from settings page"
+msgstr ""
+
+#: woo-exfood/admin/class-food-taxonomy.php:309
+#: woo-exfood/admin/inc/metadata-functions.php:300
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:396
+msgid "Order Menu"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:18
+#: woo-exfood/admin/shortcode-builder.php:130
+msgid "Type"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:19
+#: woo-exfood/admin/shortcode-builder.php:147
+msgid "Shortcode"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:20
+msgid "Publish date"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:40
+#: woo-exfood/admin/shortcode-builder.php:285
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:240
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:298
+#: woo-exfood/inc/shortcodes/woo-food-list.php:305
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:318
+#: woo-exfood/inc/shortcodes/woo-food-orderbt.php:133
+#: woo-exfood/inc/shortcodes/woo-food-table.php:334
+msgid "ID"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:69
+msgid "CT Order"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:262
+#, php-format
+msgid ""
+"There is a new version of WooComemrce Food available. %1$s View details %2$s "
+"and please check how to update plugin %3$s here%4$s."
+msgstr ""
+
+#: woo-exfood/admin/functions.php:340 woo-exfood/admin/functions.php:637
+#: woo-exfood/inc/order-whatsapp.php:138 woo-exfood/inc/woo-hook.php:774
+#: woo-exfood/inc/woo-hook.php:833 woo-exfood/inc/woo-hook.php:1562
+msgid "Order method"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:342 woo-exfood/inc/functions.php:2000
+msgid "Delivery time"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:360 woo-exfood/admin/functions.php:441
+#: woo-exfood/admin/functions.php:644
+#: woo-exfood/admin/inc/metadata-functions.php:666
+#: woo-exfood/admin/inc/metadata-functions.php:1311
+#: woo-exfood/inc/coupon-restrict.php:16 woo-exfood/inc/food-by-date.php:184
+#: woo-exfood/inc/order-whatsapp.php:137 woo-exfood/inc/shipping.php:399
+#: woo-exfood/inc/shipping.php:1171 woo-exfood/inc/woo-hook.php:770
+#: woo-exfood/inc/woo-hook.php:830 woo-exfood/inc/woo-hook.php:1561
+#: woo-exfood/templates/content-shortcodes/content-order-method.php:220
+msgid "Takeaway"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:360 woo-exfood/admin/functions.php:444
+#: woo-exfood/admin/functions.php:647 woo-exfood/inc/coupon-restrict.php:16
+#: woo-exfood/inc/order-whatsapp.php:137 woo-exfood/inc/shipping.php:405
+#: woo-exfood/inc/shipping.php:1171 woo-exfood/inc/woo-hook.php:770
+#: woo-exfood/inc/woo-hook.php:830 woo-exfood/inc/woo-hook.php:1561
+msgid "Dine-in"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:360 woo-exfood/admin/functions.php:438
+#: woo-exfood/admin/functions.php:641 woo-exfood/inc/coupon-restrict.php:16
+#: woo-exfood/inc/food-by-date.php:184 woo-exfood/inc/order-whatsapp.php:137
+#: woo-exfood/inc/shipping.php:392 woo-exfood/inc/shipping.php:1171
+#: woo-exfood/inc/woo-hook.php:770 woo-exfood/inc/woo-hook.php:830
+#: woo-exfood/inc/woo-hook.php:1561
+#: woo-exfood/templates/content-shortcodes/content-order-method.php:212
+msgid "Delivery"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:390 woo-exfood/admin/functions.php:680
+msgid "Select delivery date"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:424
+msgid "All Time slots"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:436
+msgid "All Shipping methods"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:458 woo-exfood/admin/functions.php:639
+#: woo-exfood/admin/functions.php:664 woo-exfood/admin/functions.php:762
+#: woo-exfood/inc/food-by-date.php:340 woo-exfood/inc/food-by-date.php:350
+#: woo-exfood/inc/functions.php:1322 woo-exfood/inc/functions.php:1491
+#: woo-exfood/inc/shipping.php:284
+msgid "-- Select --"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:638 woo-exfood/inc/functions.php:1929
+#: woo-exfood/inc/functions.php:1977 woo-exfood/inc/functions.php:2033
+msgid "Delivery Date"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:638 woo-exfood/inc/functions.php:1937
+#: woo-exfood/inc/functions.php:1979 woo-exfood/inc/functions.php:2038
+msgid "Pickup Date"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:638
+#: woo-exfood/admin/shortcode-builder.php:282
+#: woo-exfood/inc/food-by-date.php:54 woo-exfood/inc/functions.php:1941
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:238
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:295
+#: woo-exfood/inc/shortcodes/woo-food-list.php:303
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:315
+#: woo-exfood/inc/shortcodes/woo-food-table.php:332
+msgid "Date"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:638 woo-exfood/inc/functions.php:1930
+#: woo-exfood/inc/functions.php:2034
+msgid "Delivery Time"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:638 woo-exfood/inc/functions.php:1938
+#: woo-exfood/inc/functions.php:2039
+msgid "Pickup Time"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:638
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:221
+#: woo-exfood/inc/functions.php:1942
+msgid "Time"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:682
+msgid "Set delivery time"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:684 woo-exfood/inc/woo-hook.php:86
+#: woo-exfood/inc/woo-hook.php:103 woo-exfood/inc/woo-hook.php:781
+#: woo-exfood/inc/woo-hook.php:841 woo-exfood/inc/woo-hook.php:1570
+msgid "Number of person"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:684
+msgid "Set Number of person"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:747
+msgid "Location manager"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:750
+#: woo-exfood/admin/inc/metadata-functions.php:1217
+msgid "Locations"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:775
+msgid ""
+"Select locations to allow this user can manage order and product, leave "
+"blank to allow this user can manage all orders and products"
+msgstr ""
+
+#: woo-exfood/admin/functions.php:834 woo-exfood/inc/food-by-odmt.php:33
+msgid "You cannot add terms to this taxonomy"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:85
+#: woo-exfood/admin/shortcode-builder.php:86
+#: woo-exfood/admin/shortcode-builder.php:97
+#: woo-exfood/inc/food-by-date.php:11
+msgid "Shortcodes"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:87
+#: woo-exfood/admin/shortcode-builder.php:88
+msgid "Add New Shortcodes"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:89
+msgid "Edit Shortcodes"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:90
+msgid "New Shortcode"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:91
+msgid "Shortcodes builder"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:92
+msgid "View Shortcodes"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:93
+msgid "Search Shortcodes"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:94
+msgid "No Shortcode found"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:95
+msgid "No Shortcode found in Trash"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:125
+msgid "Shortcode type"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:131
+msgid "Select type of shortcode"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:137
+#: woo-exfood/admin/shortcode-builder.php:170
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:179
+msgid "Grid"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:138
+#: woo-exfood/admin/shortcode-builder.php:171
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:182
+msgid "Table"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:139
+#: woo-exfood/admin/shortcode-builder.php:172
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:180
+msgid "List"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:140
+msgid "Carousel"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:141
+msgid "Menu Group"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:148
+msgid ""
+"Copy this shortcode and paste it into your post, page, or text widget "
+"content:"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:159
+msgid "Shortcode Option"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:163
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:176
+msgid "Layout"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:164
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:184
+msgid "Select Layout of Menu group"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:177
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:169
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:219
+#: woo-exfood/inc/shortcodes/woo-food-list.php:229
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:190
+msgid "Style"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:178
+msgid "Select style of shortcode"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:185
+#: woo-exfood/admin/shortcode-builder.php:217
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:172
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:222
+#: woo-exfood/inc/shortcodes/woo-food-list.php:232
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:193
+msgid "1"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:186
+#: woo-exfood/admin/shortcode-builder.php:218
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:173
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:223
+#: woo-exfood/inc/shortcodes/woo-food-list.php:233
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:194
+msgid "2"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:187
+#: woo-exfood/admin/shortcode-builder.php:219
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:174
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:224
+#: woo-exfood/inc/shortcodes/woo-food-list.php:234
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:195
+msgid "3"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:188
+#: woo-exfood/admin/shortcode-builder.php:220
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:175
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:225
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:196
+msgid "4"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:193
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:233
+#: woo-exfood/inc/shortcodes/woo-food-list.php:242
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:204
+msgid "Columns"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:194
+msgid "Select Columns of shortcode"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:201
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:240
+#: woo-exfood/inc/shortcodes/woo-food-list.php:245
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:207
+msgid "1 column"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:202
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:236
+#: woo-exfood/inc/shortcodes/woo-food-list.php:246
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:208
+msgid "2 columns"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:203
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:237
+#: woo-exfood/inc/shortcodes/woo-food-list.php:247
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:209
+msgid "3 columns"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:204
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:238
+#: woo-exfood/inc/shortcodes/woo-food-list.php:248
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:210
+msgid "4 columns"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:205
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:239
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:211
+msgid "5 columns"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:209
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:223
+msgid "Heading style"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:210
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:232
+msgid "Select Heading style"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:216
+#: woo-exfood/admin/shortcode-builder.php:368
+#: woo-exfood/admin/shortcode-builder.php:427
+#: woo-exfood/admin/shortcode-builder.php:515
+#: woo-exfood/admin/shortcode-builder.php:555
+#: woo-exfood/admin/inc/metadata-functions.php:513
+#: woo-exfood/admin/inc/metadata-functions.php:1162
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:173
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:217
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:391
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:335
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:372
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:380
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:422
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:459
+#: woo-exfood/inc/shortcodes/woo-food-list.php:387
+#: woo-exfood/inc/shortcodes/woo-food-list.php:441
+#: woo-exfood/inc/shortcodes/woo-food-list.php:490
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:226
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:411
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:460
+#: woo-exfood/inc/shortcodes/woo-food-orderbt.php:145
+#: woo-exfood/inc/shortcodes/woo-food-table.php:428
+#: woo-exfood/inc/shortcodes/woo-food-table.php:470
+#: woo-exfood/inc/shortcodes/woo-food-table.php:519
+msgid "Default"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:225
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:182
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:247
+#: woo-exfood/inc/shortcodes/woo-food-list.php:255
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:237
+#: woo-exfood/inc/shortcodes/woo-food-table.php:284
+msgid "Count"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:226
+msgid "Number of posts"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:232
+msgid "Posts per page"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:233
+msgid "Number items per page"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:239
+msgid "Number items visible"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:246
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:206
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:263
+#: woo-exfood/inc/shortcodes/woo-food-list.php:271
+#: woo-exfood/inc/shortcodes/woo-food-table.php:300
+msgid "IDs"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:247
+msgid "Specify post IDs to retrieve"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:253
+#: woo-exfood/inc/food-by-date.php:50
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:214
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:271
+#: woo-exfood/inc/shortcodes/woo-food-list.php:279
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:261
+#: woo-exfood/inc/shortcodes/woo-food-table.php:207
+#: woo-exfood/inc/shortcodes/woo-food-table.php:308
+msgid "Menu"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:254
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:217
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:274
+#: woo-exfood/inc/shortcodes/woo-food-list.php:282
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:264
+#: woo-exfood/inc/shortcodes/woo-food-table.php:311
+msgid "List of cat ID (or slug), separated by a comma"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:261
+#: woo-exfood/inc/functions.php:1186 woo-exfood/inc/functions.php:1210
+#: woo-exfood/inc/functions.php:1224
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:223
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:280
+#: woo-exfood/inc/shortcodes/woo-food-list.php:288
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:300
+#: woo-exfood/inc/shortcodes/woo-food-table.php:317
+#: woo-exfood/templates/content-shortcodes/content-grid-3.php:27
+msgid "Order"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:269
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:226
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:283
+#: woo-exfood/inc/shortcodes/woo-food-list.php:291
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:303
+#: woo-exfood/inc/shortcodes/woo-food-table.php:320
+msgid "DESC"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:270
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:227
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:284
+#: woo-exfood/inc/shortcodes/woo-food-list.php:292
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:304
+#: woo-exfood/inc/shortcodes/woo-food-table.php:321
+msgid "ASC"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:274
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:235
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:292
+#: woo-exfood/inc/shortcodes/woo-food-list.php:300
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:312
+#: woo-exfood/inc/shortcodes/woo-food-table.php:329
+msgid "Order by"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:283
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:239
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:296
+#: woo-exfood/inc/shortcodes/woo-food-list.php:304
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:316
+#: woo-exfood/inc/shortcodes/woo-food-table.php:333
+msgid "Custom order field"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:284 woo-exfood/inc/functions.php:945
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:297
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:317
+msgid "Sale"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:286
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:241
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:299
+#: woo-exfood/inc/shortcodes/woo-food-list.php:306
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:319
+#: woo-exfood/inc/shortcodes/woo-food-table.php:335
+msgid "Author"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:287 woo-exfood/inc/tip.php:46
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:242
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:300
+#: woo-exfood/inc/shortcodes/woo-food-list.php:307
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:320
+#: woo-exfood/inc/shortcodes/woo-food-table.php:336
+msgid "Title"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:288
+#: woo-exfood/admin/inc/metadata-functions.php:153
+#: woo-exfood/admin/inc/metadata-functions.php:216
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:113
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:243
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:301
+#: woo-exfood/inc/shortcodes/woo-food-list.php:308
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:321
+#: woo-exfood/inc/shortcodes/woo-food-table.php:201
+#: woo-exfood/inc/shortcodes/woo-food-table.php:337
+#: woo-exfood/templates/content-shortcodes/content-review.php:37
+msgid "Name"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:289
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:244
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:302
+#: woo-exfood/inc/shortcodes/woo-food-list.php:309
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:322
+#: woo-exfood/inc/shortcodes/woo-food-table.php:338
+msgid "Modified"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:290
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:245
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:303
+#: woo-exfood/inc/shortcodes/woo-food-list.php:310
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:323
+#: woo-exfood/inc/shortcodes/woo-food-table.php:339
+msgid "Parent"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:291
+msgid "Rand"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:292
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:247
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:305
+#: woo-exfood/inc/shortcodes/woo-food-list.php:312
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:325
+#: woo-exfood/inc/shortcodes/woo-food-table.php:341
+msgid "Menu order"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:293
+#: woo-exfood/admin/shortcode-builder.php:307
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:248
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:266
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:306
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:324
+#: woo-exfood/inc/shortcodes/woo-food-list.php:313
+#: woo-exfood/inc/shortcodes/woo-food-list.php:331
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:326
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:344
+#: woo-exfood/inc/shortcodes/woo-food-table.php:342
+#: woo-exfood/inc/shortcodes/woo-food-table.php:360
+msgid "Meta value"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:294
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:249
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:307
+#: woo-exfood/inc/shortcodes/woo-food-list.php:314
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:327
+#: woo-exfood/inc/shortcodes/woo-food-table.php:343
+msgid "Meta value num"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:295
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:250
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:308
+#: woo-exfood/inc/shortcodes/woo-food-list.php:315
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:328
+#: woo-exfood/inc/shortcodes/woo-food-table.php:344
+msgid "Post__in"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:296
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Field.php:1471
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Field.php:1475
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:251
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:309
+#: woo-exfood/inc/shortcodes/woo-food-list.php:316
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:329
+#: woo-exfood/inc/shortcodes/woo-food-table.php:345
+msgid "None"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:300
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:258
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:316
+#: woo-exfood/inc/shortcodes/woo-food-list.php:323
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:336
+#: woo-exfood/inc/shortcodes/woo-food-table.php:352
+msgid "Meta key"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:301
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:261
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:319
+#: woo-exfood/inc/shortcodes/woo-food-list.php:326
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:339
+#: woo-exfood/inc/shortcodes/woo-food-table.php:355
+msgid "Enter meta key to query"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:308
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:269
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:327
+#: woo-exfood/inc/shortcodes/woo-food-list.php:334
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:347
+#: woo-exfood/inc/shortcodes/woo-food-table.php:363
+msgid "Enter meta value to query"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:314
+msgid "Number of Excerpt"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:321
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:341
+#: woo-exfood/inc/shortcodes/woo-food-list.php:348
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:361
+#: woo-exfood/inc/shortcodes/woo-food-table.php:377
+msgid "Page navi"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:322
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:347
+#: woo-exfood/inc/shortcodes/woo-food-list.php:354
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:367
+#: woo-exfood/inc/shortcodes/woo-food-table.php:383
+msgid "Select type of page navigation"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:329
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:344
+#: woo-exfood/inc/shortcodes/woo-food-list.php:351
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:364
+#: woo-exfood/inc/shortcodes/woo-food-table.php:380
+msgid "Number"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:330 woo-exfood/inc/functions.php:342
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:345
+#: woo-exfood/inc/shortcodes/woo-food-list.php:352
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:365
+#: woo-exfood/inc/shortcodes/woo-food-table.php:381
+msgid "Load more"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:334
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:353
+#: woo-exfood/inc/shortcodes/woo-food-list.php:360
+#: woo-exfood/inc/shortcodes/woo-food-table.php:401
+msgid "Menu filter"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:335
+msgid "Select show or hide menu filter bar"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:342
+#: woo-exfood/admin/shortcode-builder.php:429
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:356
+#: woo-exfood/inc/shortcodes/woo-food-list.php:363
+#: woo-exfood/inc/shortcodes/woo-food-table.php:404
+msgid "Hide"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:343
+#: woo-exfood/admin/shortcode-builder.php:428
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:357
+#: woo-exfood/inc/shortcodes/woo-food-list.php:364
+#: woo-exfood/inc/shortcodes/woo-food-table.php:405
+msgid "Show"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:347
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:365
+#: woo-exfood/inc/shortcodes/woo-food-list.php:372
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:270
+#: woo-exfood/inc/shortcodes/woo-food-table.php:413
+msgid "Menu/Category count"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:348
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:371
+#: woo-exfood/inc/shortcodes/woo-food-list.php:378
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:276
+#: woo-exfood/inc/shortcodes/woo-food-table.php:419
+msgid "Select Yes to show menu/category count"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:360
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:377
+#: woo-exfood/inc/shortcodes/woo-food-list.php:384
+#: woo-exfood/inc/shortcodes/woo-food-table.php:425
+msgid "Menu filter style"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:361
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:383
+#: woo-exfood/inc/shortcodes/woo-food-list.php:390
+#: woo-exfood/inc/shortcodes/woo-food-table.php:431
+msgid "Select Menu filter style"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:369
+#: woo-exfood/admin/inc/metadata-functions.php:252
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:381
+#: woo-exfood/inc/shortcodes/woo-food-list.php:388
+#: woo-exfood/inc/shortcodes/woo-food-table.php:429
+msgid "Icon"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:373
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:388
+#: woo-exfood/inc/shortcodes/woo-food-list.php:395
+#: woo-exfood/inc/shortcodes/woo-food-table.php:436
+msgid "Active filter"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:374
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:391
+#: woo-exfood/inc/shortcodes/woo-food-list.php:398
+#: woo-exfood/inc/shortcodes/woo-food-table.php:439
+msgid "Enter slug of menu to active"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:380
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:396
+#: woo-exfood/inc/shortcodes/woo-food-list.php:403
+#: woo-exfood/inc/shortcodes/woo-food-table.php:444
+msgid "Order Menu Filter"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:381
+msgid "Order Menu Filter with custom order"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:393
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:407
+#: woo-exfood/inc/shortcodes/woo-food-list.php:426
+#: woo-exfood/inc/shortcodes/woo-food-table.php:455
+msgid "Hide 'All' Filter"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:394
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:409
+#: woo-exfood/inc/shortcodes/woo-food-list.php:428
+#: woo-exfood/inc/shortcodes/woo-food-table.php:457
+msgid "Select 'yes' to disalbe 'All' filter"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:406
+#: woo-exfood/inc/shortcodes/woo-food-list.php:415
+msgid "Menu filter Position"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:407
+#: woo-exfood/inc/shortcodes/woo-food-list.php:421
+msgid "Select posstion of menu filter"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:414
+#: woo-exfood/inc/shortcodes/woo-food-list.php:418
+msgid "Top"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:415
+#: woo-exfood/inc/shortcodes/woo-food-list.php:419
+msgid "Left"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:419
+msgid "Show Side cart"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:420
+msgid "Select show or hide side cart"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:433
+msgid "Enable Ajax Search"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:434
+msgid "Select yes to enable ajax search feature"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:446
+#: woo-exfood/inc/shortcodes/woo-food-table.php:389
+msgid "Live Sort"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:447
+#: woo-exfood/inc/shortcodes/woo-food-table.php:395
+msgid "Enable Live Sort"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:461
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:283
+msgid "Autoplay"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:462
+msgid "Enable Autoplay"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:474
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:295
+msgid "Autoplay Speed"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:475
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:302
+msgid "Autoplay Speed in milliseconds. Default:3000"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:481
+msgid "Loading effect"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:482
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:308
+msgid "Enable Loading effect"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:494
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:320
+msgid "Infinite"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:495
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:326
+msgid "Infinite loop sliding ( go to first item when end loop)"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:507
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:369
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:456
+#: woo-exfood/inc/shortcodes/woo-food-list.php:487
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:457
+#: woo-exfood/inc/shortcodes/woo-food-table.php:516
+msgid "Enable modal"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:508
+msgid "Enable modal details food info"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:521
+msgid "Featured food"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:522
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:345
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:444
+#: woo-exfood/inc/shortcodes/woo-food-list.php:463
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:433
+#: woo-exfood/inc/shortcodes/woo-food-table.php:492
+msgid "Show only Featured food"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:534
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:357
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:469
+#: woo-exfood/inc/shortcodes/woo-food-list.php:475
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:445
+#: woo-exfood/inc/shortcodes/woo-food-table.php:504
+msgid "Hide add to cart form"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:535
+msgid "Select Yes to hide add to cart form"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:547
+msgid "Popup order method"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:548
+msgid "Enable popup select order method"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:557
+msgid "no"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:561
+msgid "Image Size"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:562
+msgid "Leave blank to use default image size"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:568
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:381
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:480
+#: woo-exfood/inc/shortcodes/woo-food-list.php:499
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:469
+#: woo-exfood/inc/shortcodes/woo-food-orderbt.php:166
+#: woo-exfood/inc/shortcodes/woo-food-table.php:528
+msgid "Class name"
+msgstr ""
+
+#: woo-exfood/admin/shortcode-builder.php:569
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:384
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:483
+#: woo-exfood/inc/shortcodes/woo-food-list.php:502
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:472
+#: woo-exfood/inc/shortcodes/woo-food-orderbt.php:169
+#: woo-exfood/inc/shortcodes/woo-food-table.php:531
+msgid "add a class name and refer to it in custom CSS"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:61
+msgid "Food info"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:66
+#: woo-exfood/inc/woo-hook.php:1253
+#: woo-exfood/templates/content-shortcodes/content-modal.php:80
+msgid "Protein"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:67
+#: woo-exfood/admin/inc/metadata-functions.php:74
+#: woo-exfood/admin/inc/metadata-functions.php:81
+#: woo-exfood/admin/inc/metadata-functions.php:88
+#: woo-exfood/admin/inc/metadata-functions.php:95
+#: woo-exfood/admin/inc/metadata-functions.php:102
+#: woo-exfood/admin/inc/metadata-functions.php:109
+msgid "Example: 50mg"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:73
+#: woo-exfood/inc/woo-hook.php:1256
+#: woo-exfood/templates/content-shortcodes/content-modal.php:83
+msgid "Calories"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:80
+#: woo-exfood/inc/woo-hook.php:1258
+#: woo-exfood/templates/content-shortcodes/content-modal.php:85
+msgid "Cholesterol"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:87
+#: woo-exfood/inc/woo-hook.php:1260
+#: woo-exfood/templates/content-shortcodes/content-modal.php:87
+msgid "Dietary fibre"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:94
+#: woo-exfood/inc/woo-hook.php:1262
+#: woo-exfood/templates/content-shortcodes/content-modal.php:89
+msgid "Sodium"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:101
+#: woo-exfood/inc/woo-hook.php:1264
+#: woo-exfood/templates/content-shortcodes/content-modal.php:91
+msgid "Carbohydrates"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:108
+#: woo-exfood/inc/woo-hook.php:1266
+#: woo-exfood/templates/content-shortcodes/content-modal.php:93
+msgid "Fat total"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:115
+msgid "Custom Price"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:116
+msgid "Enter anything to replace with price"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:122
+msgid "Custom Color"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:123
+msgid "Set custom color for this food"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:134
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:47
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:62
+msgid "Additional option"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:140
+msgid "Add additional food option to allow user can order with this food"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:143
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:103
+msgid "Option {#}"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:144
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:104
+msgid "Add Option"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:145
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:105
+msgid "Remove Option"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:159
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:121
+msgid "Option type"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:160
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:122
+msgid "Select type of this option"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:166
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:129
+msgid "Checkboxes"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:167
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:130
+msgid "Radio buttons"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:168
+#: woo-exfood/admin/inc/metadata-functions.php:821
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:131
+msgid "Select box"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:172
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:138
+msgid "Required?"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:173
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:139
+msgid "Select this option is required or not"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:184
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:180
+msgid "Options"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:185
+msgid "Enter name of option and price separator by | Example: Option 1 | 100"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:190
+msgid "Name | Price"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:197
+msgid "Food Custom Info"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:203
+msgid "Add food info, example: Fat saturated... Or anything you want to show"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:206
+msgid "Food Info {#}"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:207
+msgid "Add Another Food info"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:208
+msgid "Remove Custom Food info"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:222
+msgid "Info"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:231
+msgid "Custom Label Icon"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:239
+msgid "Add label icon like spicy ..."
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:242
+msgid "Label Icon {#}"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:243
+msgid "Add Another Label Icon"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:244
+msgid "Remove Label Icon"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:265
+msgid "Add File"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:271
+msgid "Label name"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:277
+msgid "Background color"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:311
+msgid "Icon shortcode"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:313
+msgid "Add your icon shortcode to replace with Icon image"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:368
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:382
+msgid "Food Settings"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:388
+#: woo-exfood/admin/inc/metadata-functions.php:664
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:315
+msgid "General"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:402
+msgid "Main Color"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:403
+msgid "Choose Main Color for plugin"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:409
+msgid "Content Font Family"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:410
+msgid ""
+"Enter Google font-family name . For example, if you choose \"Source Sans Pro"
+"\" Google Font, enter Source Sans Pro"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:416
+msgid "Content Font Size"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:417
+msgid "Enter size of main font, default:13px, Ex: 14px"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:423
+msgid "Content Font Color"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:424
+msgid "Choose Content Font Color for plugin"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:430
+msgid "Heading Font Family"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:431
+#: woo-exfood/admin/inc/metadata-functions.php:452
+msgid ""
+"Enter Google font-family name. For example, if you choose \"Oswald\" Google "
+"Font, enter Oswald"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:437
+msgid "Heading Font Size"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:438
+msgid "Enter size of heading font, default: 20px, Ex: 22px"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:444
+msgid "Heading Font Color"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:445
+msgid "Choose Heading Font Color for plugin"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:451
+msgid "Price Font Family"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:458
+msgid "Price Font Size"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:459
+msgid "Enter size of Price font, default: 20px, Ex: 22px"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:465
+msgid "Price Font Color"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:466
+msgid "Choose Price Font Color for plugin"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:472
+msgid "Meta Font Family"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:473
+msgid ""
+"Enter Google font-family name. For example, if you choose \"Ubuntu\" Google "
+"Font, enter Ubuntu"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:479
+msgid "Meta Font Size"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:480
+msgid "Enter size of metadata font, default:13px, Ex: 12px"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:486
+msgid "Meta Font Color"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:487
+msgid "Choose Meta Font Color for plugin"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:494
+msgid "Disable Extra Options"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:495
+msgid "Select yes to disable default Extra Options"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:506
+msgid "Extra Options Style"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:507
+msgid "Select style of Extra Options"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:514
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:219
+msgid "Accordion"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:519
+msgid "RTL mode"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:520
+msgid "Enable RTL mode for RTL language"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:532
+msgid "Enable Food by location"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:533
+msgid ""
+"Select yes to enable Food by location ( You need to set each food for each "
+"location)"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:544
+msgid "Auto close popup after add item to cart"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:545
+msgid "Select yes close popup after add item to cart"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:556
+msgid "Popup location icon"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:557
+msgid "Select Icon for location popup, only work when enable popup location"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:572
+msgid "Food menu by order method"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:573
+msgid "This feature allow you can set food by each order method"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:586
+msgid "Food menu by date"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:587
+msgid ""
+"This feature allow you can create food menu by date and  user only can order "
+"food of current date"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:598
+msgid "Multi menus by date"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:599
+msgid ""
+"This feature allow you can create multi menus like Lunch or Breakfast or "
+"Dinner for each date"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:611
+msgid "Live total price"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:612
+msgid "Select yes to enable live update total price"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:623
+msgid "Open single product on popup"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:624
+msgid ""
+"Add your food menu page (contain food shortcode) link here to open default "
+"single product on popup instead of default single product page "
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:631
+msgid "Save WooCommerce food fields into Order notes"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:632
+msgid ""
+"Save order method, date, time, location into Order notes if you want to "
+"display these informations on WooCommerce APP"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:670
+#: woo-exfood/admin/inc/metadata-functions.php:1418
+#: woo-exfood/inc/food-by-date.php:184
+#: woo-exfood/templates/content-shortcodes/content-order-method.php:226
+msgid "Dine-In"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:673
+msgid "Advanced Time slots"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:749
+#: woo-exfood/admin/inc/metadata-functions.php:1124
+msgid "Advanced"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:759
+msgid "Date field"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:760
+msgid "Select Date field is Required or Optional or Disable"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:767
+#: woo-exfood/admin/inc/metadata-functions.php:843
+#: woo-exfood/admin/inc/metadata-functions.php:892
+#: woo-exfood/admin/inc/metadata-functions.php:1476
+msgid "Required"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:768
+#: woo-exfood/admin/inc/metadata-functions.php:844
+#: woo-exfood/admin/inc/metadata-functions.php:893
+#: woo-exfood/admin/inc/metadata-functions.php:1475
+msgid "Optional"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:769
+#: woo-exfood/admin/inc/metadata-functions.php:845
+#: woo-exfood/admin/inc/metadata-functions.php:891
+#: woo-exfood/admin/inc/metadata-functions.php:904
+#: woo-exfood/admin/inc/metadata-functions.php:961
+#: woo-exfood/admin/inc/metadata-functions.php:1477
+#: woo-exfood/admin/inc/metadata-functions.php:1562
+msgid "Disable"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:773
+msgid "Minimum time to order food before"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:774
+msgid ""
+"This feature allow user only can order food before X day or X minutes, Enter "
+"number for day or enter number + m for minutes, Example: 1 for 1 day or: 30m "
+"for 30 minutes"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:780
+#: woo-exfood/admin/inc/metadata-functions.php:1327
+#: woo-exfood/admin/inc/metadata-functions.php:1434
+msgid "Disable dates"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:781
+msgid "Disable special Delivery Date"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:790
+msgid "Enable Special delivery dates"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:791
+msgid ""
+"Add dates to allow user only can select these special Delivery Dates (only "
+"support display delivery date in Select box)"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:800
+#: woo-exfood/admin/inc/metadata-functions.php:1347
+#: woo-exfood/admin/inc/metadata-functions.php:1454
+msgid "Disable days"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:801
+msgid "Disable special Day Delivery"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:816
+msgid "Display Delivery date in"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:817
+msgid "Set style of Delivery date"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:822
+msgid "Calendar Picker"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:826
+msgid "Calendar picker format"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:827
+msgid "Set format for calendart date picker, default: mm/dd/yyyy"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:831
+msgid "mm/dd/yyyy"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:832
+msgid "dd-mm-yyyy"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:836
+msgid "Time field"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:837
+msgid "Select time field is Required or Optional or Disable"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:849
+msgid "Disable Time slot option"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:850
+msgid "This feature allow you can disable special time slot instead delete it"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:862
+#: woo-exfood/admin/inc/metadata-functions.php:1275
+msgid "Time slots"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:876
+msgid "Set minimum amount required for each Order"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:884
+msgid "Location field"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:885
+msgid ""
+"Enable location field in Checkout to allow user can choose area they want to "
+"order"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:897
+msgid "Advanced Time slot By location"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:898
+msgid "Enable Advanced Time slot By location"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:905
+#: woo-exfood/admin/inc/metadata-functions.php:962
+msgid "Enable"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:910
+#: woo-exfood/admin/inc/metadata-functions.php:1390
+#: woo-exfood/admin/inc/metadata-functions.php:1517
+msgid "Disable locations"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:911
+msgid "Disable special location from Delivery"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:923
+msgid "Disable WooCommerce Food fields in products"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:926
+msgid ""
+"Select product (or by category below) to disable order method, date, time, "
+"location fields of WooCommerce Food when checkout if you want to sell normal "
+"products"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:933
+msgid "Disable WooCommerce Food fields in category"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:934
+msgid ""
+"Select category to disable order method, date, time, location fields of "
+"WooCommerce Food when checkout if you want to sell normal products"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:955
+msgid "Select yes to enable Opening and Closing time"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:963
+msgid "Closed"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:967
+msgid "Enable Opening and Closing time for each location"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:968
+msgid ""
+"Select yes to enable Opening and Closing time settings for each location"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:979
+msgid "Allow products"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:982
+msgid "Allow user can purchase products when your shop is closed."
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1084
+msgid "Closed from date to date"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1086
+msgid "This setting will higher priority than Open and closing by day of week"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1089
+msgid "Closed {#}"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1098
+msgid "From"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1099
+msgid "Select start Closed date"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1105
+msgid "To"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1106
+msgid "Select end Closed date"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1135
+msgid "Advanced time slots"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1144
+msgid ""
+"Set time slots for each day of week (leave blank to use General setting)"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1147
+msgid "Time Delivery {#}"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1156
+#: woo-exfood/admin/inc/metadata-functions.php:1556
+msgid "Shipping method"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1157
+msgid "Select Shipping method for this time delivery"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1163
+#: woo-exfood/admin/inc/metadata-functions.php:1564
+msgid "Only Takeaway"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1164
+#: woo-exfood/admin/inc/metadata-functions.php:1565
+msgid "Only Delivery"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1165
+msgid "Only Dine-in"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1169
+#: woo-exfood/inc/food-by-date.php:108
+msgid "Time from"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1170
+msgid "Select Start Time to auto generate time slot"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1184
+#: woo-exfood/inc/food-by-date.php:124
+msgid "Time to"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1185
+#: woo-exfood/inc/food-by-date.php:125
+msgid "Select End Time to auto generate time slot"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1199
+#: woo-exfood/inc/food-by-date.php:148
+msgid "Max order"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1200
+msgid "Set Max order for each time slot"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1207
+msgid "Number of minutes"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1208
+msgid "Select Number of minutes for each time slot"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1218
+msgid ""
+"Select Locations for this time delivery, leave blank to apply for all "
+"locations"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1289
+msgid ""
+"When you enable Multi menus by date (menu by time slot), you need create "
+"each menu for each slot and this setting is not available"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1298
+msgid "Generate Time slots"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1319
+msgid "User need order Pickup Date food before"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1320
+msgid ""
+"Enter number, This feature allow user only can select Pickup Date food "
+"before X day or X minutes (enter number + m) from now"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1328
+msgid "Disable special Pickup Date"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1337
+msgid "Enable Special Pickup dates"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1338
+msgid ""
+"Add dates to allow user only can select these special Pickup Dates (only "
+"support display delivery date in Select box)"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1348
+msgid "Disable special Pickup Day"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1363
+#: woo-exfood/admin/inc/metadata-functions.php:1490
+msgid "Disable address fields"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1364
+msgid "Disable address fields when user select order method is Takeaway"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1374
+msgid "Takeaway Surcharge/Discount"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1375
+#: woo-exfood/admin/inc/metadata-functions.php:1502
+msgid ""
+"Enter number:10 or Percentage of total price: 10% (enter negative number for "
+"discount)"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1383
+msgid ""
+"Set Minimum Order Amount required for Takeaway, leave blank to use default "
+"setting from General tab"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1391
+msgid "Disable special location from Takeaway"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1426
+msgid "User need order table before"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1427
+msgid ""
+"Enter number, This feature allow user only can select date before X day or X "
+"minutes (enter number + m) from now"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1435
+msgid "Disable special Date"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1444
+msgid "Enable Special dates"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1445
+msgid ""
+"Add dates to allow user only can select these special Dates (only support "
+"display date in Select box)"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1455
+msgid "Disable special Day"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1470
+msgid "Number of persons"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1471
+msgid "Select yes to enable number of persons field"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1482
+msgid "Maxinum number of person user can select"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1483
+msgid "Enter number, defaul is 6"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1491
+msgid "Disable address fields when user select order method is Dine-in"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1501
+msgid "Dine-in Surcharge/Discount"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1510
+msgid ""
+"Set Minimum Order Amount required for Dine-in, leave blank to use default "
+"setting from General tab"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1518
+msgid "Disable special location from Dine-in"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1549
+msgid "Shipping"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1557
+msgid "Select disable to use default shipping method feature of WooCommerce"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1563
+msgid "Delivery and Takeaway"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1569
+msgid "Enable Dine-in option"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1570
+msgid "Select yes to enable Dine-in option"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1581
+msgid "Show close button"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1582
+msgid ""
+"Show close button on popup select shipping method (only work if you do not "
+"set different food for each location)"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1593
+msgid "Limit shipping by"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1594
+msgid ""
+"Select shipping by Radius with Google Map API or by Postcodes feature of "
+"WooCommerce"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1598
+msgid "Radius with Google Map API"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1599
+msgid "Postcodes feature of WooCommerce"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1606
+msgid "Enter list of your Postcodes here, separated by a comma"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1628
+msgid "Google API"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1629
+msgid ""
+"The API key is required to calculate Distance, please follow this guide to "
+"create API: https://developers.google.com/maps/documentation/javascript/get-"
+"api-key#get-an-api-key"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1635
+msgid "Distance Matrix API"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1636
+msgid ""
+"If you want to restrict Google API by HTTP referrers (web sites) you will "
+"need to create seperate API for Distance Matrix API, Because you only can "
+"restrict Distance Matrix API by IP addresses (web servers, cron jobs, etc.)"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1643
+msgid "Enter number of kilometer to restrict delivery"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1649
+msgid "Distance calculation using"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1650
+msgid "Select transportation mode for the calculation of distances"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1654
+msgid "Driving "
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1655
+msgid "Walking "
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1656
+msgid "Bicycling "
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1661
+msgid "Limit auto address by country"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1662
+msgid ""
+"Enter country code to limit auto address complete by country, you can find "
+"your country code here: https://en.wikipedia.org/wiki/"
+"List_of_ISO_3166_country_codes, Example:US"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1668
+msgid "Disable auto address complete on checkout page"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1669
+msgid "Select Yes to disable auto address complete on checkout page"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1673
+#: woo-exfood/admin/inc/metadata-functions.php:1684
+msgid "No "
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1674
+#: woo-exfood/admin/inc/metadata-functions.php:1685
+msgid "Yes "
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1679
+msgid "Shipping fee by time slot"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1680
+msgid "Enable Shipping fee by time slot instead of km"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1698
+msgid "Enable shipping fee by km for each location"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1699
+msgid ""
+"Select yes then go to edit location and set shipping fee by km for each "
+"location"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1750
+msgid "Postcodes settings"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1772
+msgid ""
+"Set shipping fee by postcode, leave blank to use default shipping fee from "
+"WooCommerce setting"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1774
+msgid "Shipping fee by postcode {#}"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1784
+#: woo-exfood/templates/content-shortcodes/content-order-method.php:242
+msgid "Postcode"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1830
+msgid "Custom Code"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1838
+msgid "Custom Css"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1839
+msgid "Paste your custom Css code"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1852
+msgid "Custom Js"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1853
+msgid "Paste your custom Js code"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1876
+msgid "Js + Css file"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1884
+msgid "Turn off Google Font"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1885
+msgid "Turn off loading Google Font"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1905
+msgid "Plugin License"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1913
+msgid "Envato Username"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1914
+msgid "Enter Envato username which you have purchased this plugin (not email)"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1919
+msgid "Purchase Code"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1920
+#, php-format
+msgid "Enter your %s purcahse code %s of this plugin"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1938
+msgid "Tools"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1946
+msgid "Export settings"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1947
+msgid ""
+"Copy this settings and use it to migrate plugin to another WordPress install"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1953
+msgid "Import settings"
+msgstr ""
+
+#: woo-exfood/admin/inc/metadata-functions.php:1954
+msgid "Paste your copy to import settings"
+msgstr ""
+
+#: woo-exfood/admin/inc/open-close-field.php:12
+msgid "Opening time"
+msgstr ""
+
+#: woo-exfood/admin/inc/open-close-field.php:23
+msgid "Closing time"
+msgstr ""
+
+#: woo-exfood/admin/inc/open-close-field.php:94
+msgid "Start time"
+msgstr ""
+
+#: woo-exfood/admin/inc/open-close-field.php:105
+msgid "End time"
+msgstr ""
+
+#: woo-exfood/admin/inc/open-close-field.php:116
+msgid "Name of time slot"
+msgstr ""
+
+#: woo-exfood/admin/inc/open-close-field.php:126
+msgid "Max number of order"
+msgstr ""
+
+#: woo-exfood/admin/inc/open-close-field.php:149
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:395
+msgid "Disable ?"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2.php:199
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Ajax.php:189
+#: woo-exfood/admin/inc/cmb2/includes/helper-functions.php:107
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Base.php:422
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" "
+"parameter."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Base.php:426
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%2$s\" parameter."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Base.php:456
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Base.php:458
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Base.php:491
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Hookup_Base.php:102
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Options.php:247
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Options_Hookup.php:357
+#: woo-exfood/admin/inc/cmb2/includes/types/CMB2_Type_Base.php:173
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Base.php:509
+#: woo-exfood/admin/inc/cmb2/includes/types/CMB2_Type_Base.php:157
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Field.php:1438
+msgid "Add Group"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Field.php:1439
+msgid "Remove Group"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Field.php:1589
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Field_Display.php:453
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:237
+#: woo-exfood/admin/inc/cmb2/includes/types/CMB2_Type_File_Base.php:79
+msgid "File:"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Hookup.php:189
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Hookup.php:193
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Hookup.php:551
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Hookup_Base.php:44
+#, php-format
+msgid "%1$s should be implemented by the extended class."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:172
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:217
+msgid "Clear"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:174
+msgid "Select Color"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:175
+msgid "Current Color"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:208
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:209
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:210
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:211
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:212
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:213
+#: woo-exfood/templates/content-shortcodes/content-modal.php:126
+msgid "Next"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:214
+msgid "Prev"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:215
+#: woo-exfood/inc/functions.php:1788
+msgid "Today"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:216
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:226
+msgid "Done"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:220
+msgid "Choose Time"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:222
+msgid "Hour"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:223
+msgid "Minute"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:224
+msgid "Second"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:225
+msgid "Now"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:233
+msgid "Use this file"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:234
+msgid "Use these files"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:235
+#: woo-exfood/admin/inc/cmb2/includes/types/CMB2_Type_File_Base.php:64
+msgid "Remove Image"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:238
+#: woo-exfood/admin/inc/cmb2/includes/types/CMB2_Type_File_Base.php:82
+msgid "Download"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_JS.php:239
+msgid "Select / Deselect All"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Options_Hookup.php:139
+msgid "Nothing to update."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Options_Hookup.php:143
+msgid "Settings updated."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Types.php:226
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Types.php:344
+msgid "Add Row"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/CMB2_Types.php:408
+msgid "Remove Row"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/helper-functions.php:307
+msgid "Save"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:35
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:47
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:59
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:71
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:83
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:95
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:107
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:119
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:131
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:143
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:155
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/types/CMB2_Type_Counter_Base.php:50
+msgid "Words left"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/types/CMB2_Type_Counter_Base.php:51
+msgid "Words"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/types/CMB2_Type_Counter_Base.php:56
+msgid "Characters left"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/types/CMB2_Type_Counter_Base.php:57
+msgid "Characters"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/types/CMB2_Type_Counter_Base.php:62
+msgid "Your text may be truncated."
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: woo-exfood/admin/inc/cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:115
+msgid "No terms"
+msgstr ""
+
+#: woo-exfood/admin/inc/Post-Search-field/lib/init.php:47
+msgid "An error has occurred. Please reload the page and try again."
+msgstr ""
+
+#: woo-exfood/admin/inc/Post-Search-field/lib/init.php:48
+msgid "Find Posts or Pages"
+msgstr ""
+
+#: woo-exfood/inc/coupon-restrict.php:11
+msgid "Order methods"
+msgstr ""
+
+#: woo-exfood/inc/coupon-restrict.php:22
+msgid ""
+"Select order methods to apply for this coupon, leave blank to apply for all "
+"methods"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:10 woo-exfood/inc/food-by-date.php:16
+#: woo-exfood/inc/food-by-date.php:22
+msgid "Menu by date"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:15
+msgid "New Menu"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:17
+msgid "View Menu"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:18
+msgid "Search Menu"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:19
+msgid "No Menu found"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:20
+msgid "No Menu found in Trash"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:55
+msgid "Select date of this menu"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:65 woo-exfood/inc/food-by-date.php:156
+msgid "Add by special food"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:66 woo-exfood/inc/food-by-date.php:157
+msgid "Select food (or category below) and add it into food menu"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:77 woo-exfood/inc/food-by-date.php:176
+msgid "Or Add food by category"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:78 woo-exfood/inc/food-by-date.php:177
+msgid ""
+"Select category for this date ( If you add food by special food this option "
+"will be ignored )"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:96
+msgid ""
+"If you want to create multi menus by multi times (like AM/PM) for the date, "
+"please create each group for each of time, If you have same menu for the "
+"date, please ignore this setting"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:99
+msgid "Menu by time {#}"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:109
+msgid "Select Start Time of this menu"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:139
+msgid "Name of menu"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:140
+msgid "Enter name of menu like: Lunch or Breakfast or Dinner"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:149
+msgid "Set Max order for this menu slot"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:197
+msgid "Disable order method"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:198
+msgid "Select not available method for this menu"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:211
+msgid "Repeat on"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:262
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:316
+msgid "Copy from previous option"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:263
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:317
+msgid "Please save option before copy"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:263
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:317
+msgid "Copy this option"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:265
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:319
+msgid "Paste option"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:266
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:320
+msgid "Completed!"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:267
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:322
+msgid "Paste your option here"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:283
+msgid ""
+"The products added to cart for this date will reset. Are you sure you want "
+"to change this date ?"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:284
+msgid "Date: "
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:301
+msgid "Please choose the date to view menu"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:399 woo-exfood/inc/food-by-date.php:443
+msgid ""
+"Sorry the menu time you have selected has expired or not available, please "
+"try again with different date time"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:877
+msgid ""
+"All menus of this date has passed or not available, please choose another "
+"date"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:928 woo-exfood/inc/food-by-date.php:943
+#: woo-exfood/inc/food-by-date.php:954
+#, php-format
+msgid "You cannot order \"%s\" on this date"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:963
+msgid "No food available for this date"
+msgstr ""
+
+#: woo-exfood/inc/food-by-date.php:991 woo-exfood/inc/woo-hook.php:638
+#, php-format
+msgid ""
+"Sorry, the %s you have selected has full order, please try again with "
+"different  %s or time"
+msgstr ""
+
+#: woo-exfood/inc/food-by-odmt.php:5 woo-exfood/inc/food-by-odmt.php:6
+#: woo-exfood/inc/food-by-odmt.php:7 woo-exfood/inc/food-by-odmt.php:14
+msgid "Order Method"
+msgstr ""
+
+#: woo-exfood/inc/food-by-odmt.php:8
+msgid "All Order Method"
+msgstr ""
+
+#: woo-exfood/inc/food-by-odmt.php:9
+msgid "Parent Order Method"
+msgstr ""
+
+#: woo-exfood/inc/food-by-odmt.php:10
+msgid "Parent Order Method:"
+msgstr ""
+
+#: woo-exfood/inc/food-by-odmt.php:11
+msgid "Edit Order Method"
+msgstr ""
+
+#: woo-exfood/inc/food-by-odmt.php:12
+msgid "Update Order Method"
+msgstr ""
+
+#: woo-exfood/inc/food-by-odmt.php:13
+msgid "Add New Order Method"
+msgstr ""
+
+#: woo-exfood/inc/food-by-odmt.php:74
+#, php-format
+msgid ""
+"The food \"%s\" has been removed because it does not exist in this order "
+"method, please refresh page and try again"
+msgstr ""
+
+#: woo-exfood/inc/functions.php:674
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:177
+#: woo-exfood/inc/shortcodes/woo-food-list.php:188
+msgid "No matching records found"
+msgstr ""
+
+#: woo-exfood/inc/functions.php:759 woo-exfood/inc/functions.php:811
+msgid "All"
+msgstr ""
+
+#: woo-exfood/inc/functions.php:1316
+msgid ""
+"The products added to cart for this location will reset. Are you sure you "
+"want to change the location ?"
+msgstr ""
+
+#: woo-exfood/inc/functions.php:1427
+#: woo-exfood/templates/content-shortcodes/content-order-method.php:235
+msgid "Please choose area you want to order"
+msgstr ""
+
+#: woo-exfood/inc/functions.php:1541
+msgid "Select store"
+msgstr ""
+
+#: woo-exfood/inc/functions.php:1780 woo-exfood/inc/functions.php:1791
+msgid "Ordering food is now closed"
+msgstr ""
+
+#: woo-exfood/inc/functions.php:1784
+#, php-format
+msgid "Ordering food is now closed, please come back after %1$s %2$s"
+msgstr ""
+
+#: woo-exfood/inc/functions.php:1789
+#, php-format
+msgid "Ordering food is now closed, please come back from %1$s to %2$s %3$s"
+msgstr ""
+
+#: woo-exfood/inc/functions.php:1864
+msgid "Type Keywords"
+msgstr ""
+
+#: woo-exfood/inc/functions.php:2002
+msgid "Pickup time"
+msgstr ""
+
+#: woo-exfood/inc/minmax-quantity.php:22
+msgid "Min quantity"
+msgstr ""
+
+#: woo-exfood/inc/minmax-quantity.php:24
+msgid "Set Min quantity for this product"
+msgstr ""
+
+#: woo-exfood/inc/minmax-quantity.php:34
+msgid "Max quantity"
+msgstr ""
+
+#: woo-exfood/inc/minmax-quantity.php:36
+msgid "Set Max quantity for this product"
+msgstr ""
+
+#: woo-exfood/inc/minmax-quantity.php:54
+msgid "Minimum quantity"
+msgstr ""
+
+#: woo-exfood/inc/minmax-quantity.php:58
+msgid "Set Min quantity for this variation"
+msgstr ""
+
+#: woo-exfood/inc/minmax-quantity.php:70
+msgid "Maximum quantity"
+msgstr ""
+
+#: woo-exfood/inc/minmax-quantity.php:74
+msgid "Set Max quantity for this variation"
+msgstr ""
+
+#: woo-exfood/inc/minmax-quantity.php:158
+#, php-format
+msgid ""
+"You only can add a maximum of %1$s %2$s's to %3$s. You already have %4$s."
+msgstr ""
+
+#: woo-exfood/inc/minmax-quantity.php:161
+#: woo-exfood/inc/minmax-quantity.php:197
+msgid "your cart"
+msgstr ""
+
+#: woo-exfood/inc/minmax-quantity.php:165
+#: woo-exfood/inc/minmax-quantity.php:201
+#, php-format
+msgid "Please select a value no more than %s."
+msgstr ""
+
+#: woo-exfood/inc/minmax-quantity.php:171
+#: woo-exfood/inc/minmax-quantity.php:207
+#, php-format
+msgid "Please select a value no less than %s."
+msgstr ""
+
+#: woo-exfood/inc/minmax-quantity.php:194
+#, php-format
+msgid "You only can add a maximum of %1$s %2$s's to %3$s"
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:13 woo-exfood/inc/order-whatsapp.php:53
+msgid "Order On whatsapp"
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:21 woo-exfood/inc/order-whatsapp.php:72
+msgid "Whatsapp number"
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:22
+msgid "Enter Whatsapp number in International format, example: +12124567890"
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:30
+msgid "Message title"
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:31
+msgid "Enter Message title"
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:37
+msgid "Whatsapp number by location"
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:38
+msgid "Enable whatsapp number setting by location"
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:74
+msgid ""
+"Enter Whatsapp number in International format to receive order for this "
+"location, example: +12124567890"
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:117
+msgid "Price: "
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:118
+msgid "Qty: "
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:119 woo-exfood/inc/order-whatsapp.php:173
+msgid "Total: "
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:124
+msgid "Hello! I want to order following product: "
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:127
+msgid "Hello! I want to order following products: "
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:140
+msgid "Subtotal: "
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:166
+#, php-format
+msgid "(includes %1$s estimated for %2$s)"
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:168
+#, php-format
+msgid "(includes %s)"
+msgstr ""
+
+#: woo-exfood/inc/order-whatsapp.php:177
+msgid "Order on Whatsapp"
+msgstr ""
+
+#: woo-exfood/inc/shipping.php:116 woo-exfood/inc/shipping.php:190
+#: woo-exfood/inc/woo-hook.php:1401
+msgid ""
+"Your address are out of delivery zone, please change to carryout channel"
+msgstr ""
+
+#: woo-exfood/inc/shipping.php:120
+msgid "Please add your postcode"
+msgstr ""
+
+#: woo-exfood/inc/shipping.php:184
+msgid ""
+"Could not calculate distance to your address, please re-check your address"
+msgstr ""
+
+#: woo-exfood/inc/shipping.php:476
+msgid "Dine-in at: "
+msgstr ""
+
+#: woo-exfood/inc/shipping.php:478
+msgid "Carryout at: "
+msgstr ""
+
+#: woo-exfood/inc/shipping.php:481 woo-exfood/inc/shipping.php:496
+msgid " Change it ?"
+msgstr ""
+
+#: woo-exfood/inc/shipping.php:494
+msgid "Delivery to: "
+msgstr ""
+
+#: woo-exfood/inc/shipping.php:727
+#, php-format
+msgid "Order %s amount more to get free delivery"
+msgstr ""
+
+#: woo-exfood/inc/shipping.php:1172
+#, php-format
+msgid ""
+"Sorry the location you have selected is not available for %s please try with "
+"other order methods"
+msgstr ""
+
+#: woo-exfood/inc/tip.php:13 woo-exfood/inc/tip.php:70
+msgid "Order Tip"
+msgstr ""
+
+#: woo-exfood/inc/tip.php:21
+msgid "Enable Order Tip"
+msgstr ""
+
+#: woo-exfood/inc/tip.php:22
+msgid "Enable Tip feature on checkout page"
+msgstr ""
+
+#: woo-exfood/inc/tip.php:33
+msgid "Order Tip position"
+msgstr ""
+
+#: woo-exfood/inc/tip.php:34
+msgid "Choose position of order tip"
+msgstr ""
+
+#: woo-exfood/inc/tip.php:39
+msgid "Before checkout form"
+msgstr ""
+
+#: woo-exfood/inc/tip.php:40
+msgid "After customer details"
+msgstr ""
+
+#: woo-exfood/inc/tip.php:41
+msgid "After order review"
+msgstr ""
+
+#: woo-exfood/inc/tip.php:47
+msgid "Enter tip title, default: Tips"
+msgstr ""
+
+#: woo-exfood/inc/tip.php:53
+msgid "Button label"
+msgstr ""
+
+#: woo-exfood/inc/tip.php:54
+msgid "Enter label of Button, default: Add"
+msgstr ""
+
+#: woo-exfood/inc/tip.php:60
+msgid "Remove Button label"
+msgstr ""
+
+#: woo-exfood/inc/tip.php:61
+msgid "Enter label of Button, default: Remove"
+msgstr ""
+
+#: woo-exfood/inc/tip.php:89 woo-exfood/inc/tip.php:116
+msgid "Tips"
+msgstr ""
+
+#: woo-exfood/inc/tip.php:94
+msgid "Add"
+msgstr ""
+
+#: woo-exfood/inc/tip.php:96
+msgid "Please enter a valid number"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:25
+msgid "Locations "
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:27
+msgid "(Please choose area you want to order)"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:252
+msgid "January"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:252
+msgid "February"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:252
+msgid "March"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:252
+msgid "April"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:252 woo-exfood/inc/woo-hook.php:254
+msgid "May"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:252
+msgid "June"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:252
+msgid "July"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:252
+msgid "August"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:252
+msgid "September"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:252
+msgid "October"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:252
+msgid "November"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:252 woo-exfood/inc/woo-hook.php:254
+msgid "December"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:254
+msgid "Jan"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:254
+msgid "Feb"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:254
+msgid "Mar"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:254
+msgid "Apr"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:254
+msgid "Jun"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:254
+msgid "Jul"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:254
+msgid "Aug"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:254
+msgid "Sep"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:254
+msgid "Oct"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:254
+msgid "Nov"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:256
+msgid "Su"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:256
+msgid "Mo"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:256
+msgid "Tu"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:256
+msgid "We"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:256
+msgid "Th"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:256
+msgid "Fr"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:256
+msgid "Sa"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:422 woo-exfood/inc/woo-hook.php:477
+msgid "Please select location you want to order"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:432 woo-exfood/inc/woo-hook.php:464
+#, php-format
+msgid "Please select %s"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:447 woo-exfood/inc/woo-hook.php:454
+#: woo-exfood/inc/woo-hook.php:541
+msgid "Error, please refresh page and try again"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:560
+msgid ""
+"Your time you have selected has closed, please try with different date or "
+"time"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:577
+msgid "Your time you have selected has closed, please try with different date"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:888
+#, php-format
+msgid "The food \"%s\" ordering is now closed"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:944 woo-exfood/inc/woo-hook.php:953
+#: woo-exfood/inc/woo-hook.php:1025
+#, php-format
+msgid ""
+"Your current order total is %s - you must have an order with a minimum of %s "
+"to place your order"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:978
+#, php-format
+msgid "The food \"%s\"  ordering is now closed"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:1199
+msgid "No time slot available for selection"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:1358
+msgid "Something went wrong, please try again"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:1421
+#, php-format
+msgid ""
+"The food \"%s\" has been removed because it does not exist in this location, "
+"please refresh page and try again"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:1461
+msgid "Dine-in Surcharge"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:1463 woo-exfood/inc/woo-hook.php:1466
+msgid "Dine-in Discount"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:1473
+msgid "Takeaway Surcharge"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:1475 woo-exfood/inc/woo-hook.php:1478
+msgid "Takeaway Discount"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:1489
+msgid "Details"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:1490
+#: woo-exfood/templates/content-shortcodes/content-review.php:100
+msgid "Reviews"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:1508
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:1514
+msgid "Thanks for your rating!"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:1517
+msgid "Oops something went wrong!"
+msgstr ""
+
+#: woo-exfood/inc/woo-hook.php:1536
+msgid "You may be interested in..."
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/global-options.php:13
+#: woo-exfood/inc/product-options-addon/admin/inc/global-options.php:19
+#: woo-exfood/inc/product-options-addon/admin/inc/global-options.php:25
+msgid "Global Options"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/global-options.php:14
+msgid "Option"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/global-options.php:15
+#: woo-exfood/inc/product-options-addon/admin/inc/global-options.php:16
+msgid "Add New Option"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/global-options.php:17
+msgid "Edit Option"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/global-options.php:18
+msgid "New Option"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/global-options.php:20
+msgid "View Option"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/global-options.php:21
+msgid "Search Option"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/global-options.php:22
+msgid "No Option found"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/global-options.php:23
+msgid "No Option found in Trash"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/global-options.php:57
+msgid "Settings"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/global-options.php:62
+msgid "Test"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/global-options.php:73
+msgid "Categories"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/global-options.php:103
+msgid "No Categories"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:67
+msgid "Exclude Global Option"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:68
+msgid "Exclude all Global Options apply this product"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:75
+msgid "Include global options"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:78
+msgid "Select Option(s) to apply for this product"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:86
+msgid "Global Option position"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:87
+msgid "Select postion of global option"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:93
+msgid "After option of product"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:94
+msgid "Before option of product"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:100
+msgid "Add additional product option to allow user can order with this product"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:132
+msgid "Textbox"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:133
+msgid "Textarea"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:134
+msgid "Quantity"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:151
+msgid "Minimun selection"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:153
+msgid "Enter number minimum at least option required"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:159
+msgid "Maximum selection"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:161
+msgid "Enter number Maximum option can select"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:167
+msgid "Option image"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:168
+msgid "Select yes to replace default choice element with image upload"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:182
+msgid "Set name and price for each option"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:188
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:408
+msgid "Type of price"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:196
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:336
+msgid "Quantity Based"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:197
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:337
+msgid "Fixed Amount"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:201
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:398
+#: woo-exfood/inc/shortcodes/woo-food-table.php:208
+msgid "Price"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:210
+msgid "Display type"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:212
+msgid ""
+"Select Display type of this option, you can select default display type in "
+"settings page"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:218
+msgid "Normal"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:225
+msgid "Enable Conditional Logic"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:226
+msgid "Enable Conditional Logic for this option"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:235
+msgid "Conditional Logic"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:243
+msgid "Show this option if"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:244
+msgid "Hide this option if"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:257
+msgid "Id of option"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:270
+msgid "Products"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:279
+msgid "Select product to apply this options"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:326
+msgid "Conditional logic"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:360
+#: woo-exfood/inc/shortcodes/woo-food-table.php:199
+msgid "Image"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:380
+msgid "Option name"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:466
+msgid "Or"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:482
+msgid "--"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:484
+msgid "Variation"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:520
+msgid "is"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/admin/inc/metadata.php:521
+msgid "is not"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/inc/woo-hook.php:270
+msgid "Select"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/inc/woo-hook.php:329
+msgid "This option is required"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/inc/woo-hook.php:332
+#, php-format
+msgid "Please choose at least %s options."
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/inc/woo-hook.php:335
+#, php-format
+msgid "You only can select max %s options."
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/inc/woo-hook.php:380
+msgid "Show extra options"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/inc/woo-hook.php:512
+msgid "Please re-check all required fields and try again"
+msgstr ""
+
+#: woo-exfood/inc/product-options-addon/inc/woo-hook.php:678
+#: woo-exfood/inc/product-options-addon/inc/woo-hook.php:686
+msgid "Edit Options"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:158
+msgid "Food Carousel"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:163
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:213
+#: woo-exfood/inc/shortcodes/woo-food-list.php:223
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:170
+#: woo-exfood/inc/shortcodes/woo-food-opcls-time.php:58
+#: woo-exfood/inc/shortcodes/woo-food-orderbt.php:128
+#: woo-exfood/inc/shortcodes/woo-food-table.php:279
+msgid "Woocommerce Food"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:177
+msgid "Select style of carousel"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:185
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:250
+#: woo-exfood/inc/shortcodes/woo-food-list.php:258
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:240
+#: woo-exfood/inc/shortcodes/woo-food-table.php:287
+msgid "Enter number of foods to show"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:190
+msgid "Number item visible"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:193
+msgid "Number of slides to show at a time"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:198
+msgid "Number slides to scroll"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:201
+msgid "Number of slides to scroll at a time"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:209
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:266
+#: woo-exfood/inc/shortcodes/woo-food-list.php:274
+#: woo-exfood/inc/shortcodes/woo-food-table.php:303
+msgid "Specify food IDs to retrieve"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:246
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:304
+#: woo-exfood/inc/shortcodes/woo-food-list.php:311
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:324
+#: woo-exfood/inc/shortcodes/woo-food-table.php:340
+msgid "Random"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:274
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:332
+#: woo-exfood/inc/shortcodes/woo-food-list.php:339
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:352
+#: woo-exfood/inc/shortcodes/woo-food-table.php:368
+msgid "Number of Excerpt ( short description)"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:277
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:335
+#: woo-exfood/inc/shortcodes/woo-food-list.php:342
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:355
+#: woo-exfood/inc/shortcodes/woo-food-table.php:371
+msgid "Enter number of Excerpt, enter:0 to disable excerpt"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:332
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:419
+#: woo-exfood/inc/shortcodes/woo-food-list.php:438
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:408
+#: woo-exfood/inc/shortcodes/woo-food-orderbt.php:142
+#: woo-exfood/inc/shortcodes/woo-food-table.php:467
+msgid "Enable cart"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-carousel.php:339
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:426
+#: woo-exfood/inc/shortcodes/woo-food-list.php:445
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:415
+#: woo-exfood/inc/shortcodes/woo-food-orderbt.php:149
+#: woo-exfood/inc/shortcodes/woo-food-table.php:474
+msgid "Enable side cart icon"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:208
+msgid "Food Grid"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:227
+#: woo-exfood/inc/shortcodes/woo-food-list.php:236
+msgid "Select style of grid"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:242
+#: woo-exfood/inc/shortcodes/woo-food-list.php:250
+msgid "Select number column of grid"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:255
+#: woo-exfood/inc/shortcodes/woo-food-list.php:263
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:245
+#: woo-exfood/inc/shortcodes/woo-food-table.php:292
+msgid "Food per page"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:258
+#: woo-exfood/inc/shortcodes/woo-food-table.php:295
+msgid "Number food per page"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:359
+#: woo-exfood/inc/shortcodes/woo-food-list.php:366
+#: woo-exfood/inc/shortcodes/woo-food-table.php:407
+msgid "Select show or hide Menu filter"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:398
+#: woo-exfood/inc/shortcodes/woo-food-list.php:405
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:398
+#: woo-exfood/inc/shortcodes/woo-food-table.php:446
+msgid "Order Menu with custom order"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:432
+#: woo-exfood/inc/shortcodes/woo-food-list.php:451
+#: woo-exfood/inc/shortcodes/woo-food-table.php:480
+msgid "Enable Live search"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-grid.php:438
+#: woo-exfood/inc/shortcodes/woo-food-list.php:457
+#: woo-exfood/inc/shortcodes/woo-food-table.php:486
+msgid "Enable ajax live search"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-list.php:218
+msgid "Food List"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-list.php:266
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:248
+msgid "Enter Number food per page"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:133
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:565
+msgid "Scroll down to see more!"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:133
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:134
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:565
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:566
+msgid "More..."
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:165
+msgid "Food Menu Group"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:198
+msgid ""
+"Select style of layout ( Grid supports style 1,2,3,4 List supports style "
+"1,2,3 and Table supports style 1)"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:217
+msgid "Select number column of grid or list style"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:227
+msgid "Style 1"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:228
+msgid "Style 2"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:229
+msgid "Style 3"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-menu-group.php:230
+msgid "Style 4"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-opcls-time.php:53
+msgid "Opening and Closing info"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-opcls-time.php:63
+msgid "Image url"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-opcls-time.php:66
+msgid "Set url of image"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-orderbt.php:123
+msgid "Order button"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-orderbt.php:136
+msgid "Enter specify food ID to display order button"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-orderbt.php:155
+msgid "Show price"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-orderbt.php:161
+msgid "Show price on button"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-table.php:202
+msgid "Detail"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-table.php:205
+msgid "Description"
+msgstr ""
+
+#: woo-exfood/inc/shortcodes/woo-food-table.php:274
+msgid "Food Table"
+msgstr ""
+
+#: woo-exfood/inc/widgets/woo-food.php:6
+msgid "Display your food from shortcode builder via widget"
+msgstr ""
+
+#: woo-exfood/inc/widgets/woo-food.php:8
+msgid "WooCommerce Food"
+msgstr ""
+
+#: woo-exfood/inc/widgets/woo-food.php:31
+msgid "Title:"
+msgstr ""
+
+#: woo-exfood/inc/widgets/woo-food.php:35
+msgid "Select Shortcode"
+msgstr ""
+
+#: woo-exfood/inc/widgets/woo-food.php:38
+msgid "Choose a shortcode"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-grid-3.php:30
+#: woo-exfood/templates/content-shortcodes/content-table-1.php:79
+msgid "Sold Out"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-grid-4.php:23
+#: woo-exfood/templates/content-shortcodes/content-list-1.php:45
+#: woo-exfood/templates/content-shortcodes/content-list-2.php:41
+#: woo-exfood/templates/content-shortcodes/content-list-3.php:31
+msgid " - Sold Out"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-live-total.php:24
+msgid "Total:"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-modal.php:126
+msgid "Previous"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-order-method.php:153
+msgid "Geolocation is not supported by this browser."
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-order-method.php:233
+msgid "Ordering area"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-order-method.php:240
+msgid "Please type your address "
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-order-method.php:240
+#: woo-exfood/templates/content-shortcodes/content-order-method.php:247
+msgid "Please add your Postcode"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-order-method.php:242
+msgid "Enter a location "
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-order-method.php:245
+msgid "Or use my current location"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-order-method.php:247
+msgid "Please add your address"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-order-method.php:252
+msgid "Start my order"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-review.php:23
+msgid "Add a review"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-review.php:23
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-review.php:25
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-review.php:29
+msgid "Submit"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-review.php:43
+msgid "Email"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-review.php:68
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-review.php:72
+msgid "Your rating"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-review.php:82
+msgid "Your review"
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-review.php:89
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-review.php:127
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woo-exfood/templates/content-shortcodes/content-table-1.php:28
+msgid "Category:"
+msgstr ""

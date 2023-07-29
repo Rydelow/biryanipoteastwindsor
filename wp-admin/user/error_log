@@ -1,0 +1,4 @@
+[30-Nov-2022 15:04:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/eire9d2tu5pr/public_html/biryanipoteastwindsor.com/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/biryanipoteastwindsor.com/wp-admin/user/menu.php on line 10

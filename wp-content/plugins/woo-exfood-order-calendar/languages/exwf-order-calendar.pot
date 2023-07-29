@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Food - Order calendar\n"
+"POT-Creation-Date: 2021-11-06 12:11+0700\n"
+"PO-Revision-Date: 2021-11-06 12:11+0700\n"
+"Last-Translator: \n"
+"Language-Team: Ex Themes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woo-exfood-order-calendar/exwf-order-calendar.php:27
+msgid ""
+"WooCommerce Food is Required to WooCommerce Food Order Calendar addon work, "
+"please install or activate WooCommerce Food plugin"
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:15
+#: woo-exfood-order-calendar/admin/functions.php:100
+msgid "Orders Calendar"
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:32
+#: woo-exfood-order-calendar/admin/functions.php:217
+#: woo-exfood-order-calendar/inc/order-calendar.php:189
+msgid "Takeaway"
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:32
+#: woo-exfood-order-calendar/admin/functions.php:217
+#: woo-exfood-order-calendar/inc/order-calendar.php:189
+msgid "Dine-in"
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:32
+#: woo-exfood-order-calendar/admin/functions.php:217
+#: woo-exfood-order-calendar/inc/order-calendar.php:189
+msgid "Delivery"
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:36
+msgid "Order Methods"
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:37
+msgid "Select only special Methods visible on calendar, default: all"
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:45
+msgid "Order Status"
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:46
+msgid "Select only special Status visible on calendar, default: all"
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:54
+msgid "Show only upcoming date"
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:55
+msgid "Select yes to show only upcoming order date on calendar, default: all"
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:60
+#: woo-exfood-order-calendar/admin/functions.php:72
+msgid "No"
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:61
+#: woo-exfood-order-calendar/admin/functions.php:73
+msgid "Yes"
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:66
+msgid "Enable Ical feed"
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:67
+msgid ""
+"If you want to sync order to google calendar, you can enable this option and "
+"add ical link to your google calendar"
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:174
+#: woo-exfood-order-calendar/inc/order-calendar.php:61
+msgid "No Orders Found"
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:222
+#: woo-exfood-order-calendar/inc/order-calendar.php:218
+msgid "Order Method: "
+msgstr ""
+
+#: woo-exfood-order-calendar/admin/functions.php:222
+#: woo-exfood-order-calendar/inc/order-calendar.php:212
+msgid "Order Status: "
+msgstr ""
+
+#: woo-exfood-order-calendar/inc/order-calendar.php:77
+msgid "List Year"
+msgstr ""
+
+#: woo-exfood-order-calendar/inc/order-calendar.php:84
+msgid "+ Ical Import"
+msgstr ""
+
+#: woo-exfood-order-calendar/inc/order-calendar.php:187
+msgid "Location: "
+msgstr ""
+
+#: woo-exfood-order-calendar/inc/order-calendar.php:210
+msgid "Total price: "
+msgstr ""
+
+#: woo-exfood-order-calendar/inc/order-calendar.php:213
+msgid "Shipping Address: "
+msgstr ""
+
+#: woo-exfood-order-calendar/inc/order-calendar.php:217
+msgid "View Details"
+msgstr ""
+
+#: woo-exfood-order-calendar/inc/order-calendar.php:237
+msgid "Months"
+msgstr ""
+
+#: woo-exfood-order-calendar/inc/order-calendar.php:257
+msgid "All Locations"
+msgstr ""

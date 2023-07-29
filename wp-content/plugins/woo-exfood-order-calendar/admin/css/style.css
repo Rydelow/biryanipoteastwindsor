@@ -1,0 +1,8 @@
+form#exwf_ocal_options_page .cmb2-wrap.form-table {width: calc(100% - 120px );}
+form#exwf_ocal_options_page p.submit {position: absolute;top: 0;right: 0;}
+form#exwf_ocal_options_page {position: relative;}
+#toplevel_page_exwf_ocal_options,
+#toplevel_page_exwf_ocal_options .wp-menu-image,
+.option-exwf_ocal_options > h2:first-child {display:none}
+#toplevel_page_woocommerce #toplevel_page_exwf_ocal_options{ display: block; }
+#adminmenu #toplevel_page_exwf_ocal_options .wp-menu-name{ padding: 0; }

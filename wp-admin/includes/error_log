@@ -1,0 +1,16 @@
+[07-Jul-2023 10:39:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/eire9d2tu5pr/public_html/biryanipoteastwindsor.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/biryanipoteastwindsor.com/wp-admin/includes/admin.php on line 16
+[07-Jul-2023 10:39:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/eire9d2tu5pr/public_html/biryanipoteastwindsor.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/biryanipoteastwindsor.com/wp-admin/includes/admin.php on line 16
+[10-Jul-2023 01:40:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/eire9d2tu5pr/public_html/biryanipoteastwindsor.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/biryanipoteastwindsor.com/wp-admin/includes/admin.php on line 16
+[10-Jul-2023 01:40:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/eire9d2tu5pr/public_html/biryanipoteastwindsor.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/biryanipoteastwindsor.com/wp-admin/includes/admin.php on line 16

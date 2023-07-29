@@ -1,0 +1,4 @@
+[08-May-2023 04:44:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Data\Base\Endpoint' not found in /home/eire9d2tu5pr/public_html/biryanipoteastwindsor.com/wp-content/plugins/elementor/data/base/sub-endpoint.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/biryanipoteastwindsor.com/wp-content/plugins/elementor/data/base/sub-endpoint.php on line 6
